@@ -91,6 +91,10 @@ footer{
         font-size: 12px; 
     }
 
+    input[type='text'] {
+        width: 100%; 
+    }
+
     nav{
         flex-direction: column;
     }
