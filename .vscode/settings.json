@@ -1,3 +1,6 @@
 {
-    "livePreview.defaultPreviewPath": "/index.html"
+    "livePreview.defaultPreviewPath": "/index.html",
+    "cSpell.words": [
+        "emailvalidation"
+    ]
 }
