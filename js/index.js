@@ -1,5 +1,3 @@
-console.log("This is my script")
-
 let result = {
     "tag": "",
     "free": false,
@@ -35,8 +33,6 @@ submitBtn.addEventListener("click", async (e) => {
             str = str + `<div>${key}: ${result[key]}</div>`
         }
     }
-
-    console.log(str)
     resultCont.innerHTML = str
 })
 
